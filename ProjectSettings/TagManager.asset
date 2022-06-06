@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - ground
+  - enemy
+  - sidechar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1123520619
+    locked: 0
+  - name: extra
+    uniqueID: 1971402421
+    locked: 0
+  - name: default-1
+    uniqueID: 3282717859
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 3200683023
+    locked: 0
+  - name: water
+    uniqueID: 29425253
+    locked: 0
+  - name: deco
+    uniqueID: 1628255361
+    locked: 0
+  - name: sidechar
+    uniqueID: 3648070815
+    locked: 0
+  - name: player
+    uniqueID: 3676099817
+    locked: 0
+  - name: boat
+    uniqueID: 1761300673
+    locked: 0
+  - name: water2
+    uniqueID: 420394285
+    locked: 0
+  - name: foreground
+    uniqueID: 750468187
+    locked: 0
+  - name: forefround2
+    uniqueID: 2241517553
+    locked: 0
+  - name: UI
+    uniqueID: 3512301953
+    locked: 0
